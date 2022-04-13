@@ -5,21 +5,21 @@ This project aims to use BeautifulSoup and Splinter to scrape full-resolution im
 
 ### Files of Code
 
-Mission to Mars Challenge Code
+#### Mission to Mars Challenge Code
 
 [Jupyter Notebook File](https://github.com/lindaxie7/Income-Prediction/blob/main/data_cleaning.ipynb)
 
 [Python File](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
-Scraping File
+#### Scraping File
 
 [Scraping](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
-App File
+#### App File
 
 [app.py](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
-HTML File
+#### HTML File
 
 [index.html](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
