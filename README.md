@@ -13,7 +13,7 @@ This project aims to use BeautifulSoup and Splinter to scrape full-resolution im
 
 #### Scraping File
 
-[Scraping](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
+[Scraping](https://github.com/lindaxie7/Web-scraping_Mission-to-Mars/blob/main/scraping.py)
 
 #### App File
 
