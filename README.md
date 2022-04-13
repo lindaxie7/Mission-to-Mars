@@ -12,12 +12,15 @@ Mission to Mars Challenge Code
 [Python File](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
 Scraping File
+
 [Scraping](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
 App File
+
 [app.py](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
 HTML File
+
 [index.html](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
 
