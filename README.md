@@ -23,7 +23,8 @@ This project aims to use BeautifulSoup and Splinter to scrape full-resolution im
 
 [index.html](https://github.com/lindaxie7/Web-scraping_Mission-to-Mars/blob/main/index.html)
 
-### Images
+### Results:
+[Here's my page](https://github.com/lindaxie7/Income-Prediction/blob/main/data_cleaning.ipynb)
 
 
 
