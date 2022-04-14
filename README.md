@@ -23,5 +23,9 @@ This project aims to use BeautifulSoup and Splinter to scrape full-resolution im
 
 [index.html](https://github.com/lindaxie7/Web-scraping_Mission-to-Mars/blob/main/index.html)
 
+### Images
+
+
+
 
 
