@@ -26,6 +26,14 @@ This project aims to use BeautifulSoup and Splinter to scrape full-resolution im
 ### Results:
 [Here's my page](http://127.0.0.1:5000/)
 
+Alternatively, clone this repository to your desktop and run it locally:
+
+    Navigate to the folder that contains app.py and launch a GitBash (Windows) or Terminal (Mac).
+    Type python app.py and then hit ENTER.
+    Enter the following address in your Chrome browser: http://127.0.0.1:5000/
+
+
+
 
 
 
